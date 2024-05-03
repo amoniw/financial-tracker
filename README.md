@@ -12,6 +12,7 @@ List the user stories that guided the development of your application. Format th
 
 - As a user, I want to be able to input my data, so that the application can process it accordingly.
 - As a user, I want to receive immediate feedback, so I can understand what to do next.
+- As a developer,I want to be able to run my program, successfully without syntax errors.
 
 ## Setup
 
@@ -34,7 +35,7 @@ Follow these steps to get your application running within IntelliJ IDEA:
 
 ## Technologies Used
 
-- Java: Mention the version you are using.
+- Java: JDK 11
 - Any additional libraries or frameworks used in the project.
 
 ## Demo
@@ -59,7 +60,7 @@ List resources such as tutorials, articles, or documentation that helped you dur
 
 ## Team Members
 
-- **Name 1** - Specific contributions or roles.
+- **Name 1** - Thankyou to Ben,and Abby and Shelby for helping me try to understand things better and there time.
 - **Name 2** - Specific contributions or roles.
 
 ## Thanks
