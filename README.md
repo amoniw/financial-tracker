@@ -2,7 +2,7 @@
 
 ## Description of the Project
 
-Briefly describe what this Java console application does. Mention its purpose and who the intended users are. Explain the main functionality and what problems it aims to solve.
+This Java console application shows a Financial Tracker. The purpose of this Tracker is to show a overview on how to run a transaction and process them through Intelli J. The functionality that it shows is the process on how to add payments and make payments add dates. The problems that it aims to solve is to show a succesful running program through the Financial Tracker
 
 ![Class Diagram](path/to/your/class_diagram.png)
 
