@@ -10,7 +10,7 @@ This Java console application shows a Financial Tracker. The purpose of this Tra
 
 List the user stories that guided the development of your application. Format these stories as: "As a [type of user], I want [some goal] so that [some reason]."
 
-- As a user, I want to be able to input my data, so that the application can process it accordingly.
+- As a user, I want to be able to input data information, so that the application can process it accordingly.
 - As a user, I want to be able to show how to run a transaction through Intelli J.
 - As a developer,I want to be able to run my program, successfully without syntax errors.
 
