@@ -60,8 +60,8 @@ List resources such as tutorials, articles, or documentation that helped you dur
 
 ## Team Members
 
-- **Name 1** - Thankyou to Ben,and Abby and Shelby for helping me try to understand things better and there time.
-- **Name 2** - Specific contributions or roles.
+- **Name 1** - Thankyou to Ben,and Abby and Shelby ,and Raymond for all youre help and support. 
+  
 
 ## Thanks
 
