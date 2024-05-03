@@ -1,6 +1,6 @@
-# Project Title
+Financial-Tracker
 
-## Description of the Project
+ 
 
 This Java console application shows a Financial Tracker. The purpose of this Tracker is to show a overview on how to run a transaction and process them through Intelli J. The functionality that it shows is the process on how to add payments and make payments add dates. The problems that it aims to solve is to show a succesful running program through the Financial Tracker
 
